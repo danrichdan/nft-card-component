@@ -41,7 +41,7 @@ Figure out the basic structure and then build from the outside in, thinking resp
 
 ### What I learned
 
-I relearned how great flexbox is for creating elements that are lined up and nicely spaced. I also learned how to speed up as I had limited time to do this.
+I relearned how great flexbox is for positioning elements that are lined up and nicely spaced. I also learned how to speed up as I had limited time to do this.
 
 ### Continued development
 
