@@ -26,8 +26,8 @@ Build the Card Component per the Mockup
 
 ### Links
 
-- Solution URL: [Solution URL](https://danrichdan.github.io/nft-card-component/)
-- Live Site URL: [Portfolio](https://danriches.com)
+- [Solution URL](https://danrichdan.github.io/nft-card-component/)
+- [Portfolio](https://danriches.com)
 
 ## My process
 
@@ -50,4 +50,4 @@ I'd like to get better at determining what would be an id versus a class, using 
 ## Author
 
 - Website - [Dan Riches](https://www.danriches.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/danrichdan)
+- Frontend Mentor - [@danrichdan](https://www.frontendmentor.io/profile/danrichdan)
