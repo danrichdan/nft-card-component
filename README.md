@@ -26,12 +26,12 @@ Build the Card Component per the Mockup
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://danrichdan.github.io/nft-card-component/)
-- Live Site URL: [Add live site URL here](https://danriches.com)
+- Solution URL: [Solution URL](https://danrichdan.github.io/nft-card-component/)
+- Live Site URL: [Portfolio](https://danriches.com)
 
 ## My process
 
-Figure out the basic structure and then build from the outside in, thinking respponsively.
+Figure out the basic structure and then build from the outside in, thinking responsively.
 
 ### Built with
 
