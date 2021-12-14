@@ -11,7 +11,6 @@ body {
   height: 100vh;
   background-color: hsl(217, 54%, 11%);
   font-family: "Outfit", sans-serif;
-
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -42,7 +41,48 @@ main {
 }
 
 .main-image {
+  display: block;
+}
+
+.main-image,
+figure,
+.overlay {
   border-radius: 5px;
+}
+
+figure {
+  position: relative;
+  cursor: pointer;
+}
+
+.overlay {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: hsl(178, 100%, 50%);
+  opacity: 0;
+}
+
+.eye {
+  opacity: 0;
+  z-index: 10;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+figure:hover .eye {
+  opacity: 1;
+}
+
+figure:hover .overlay {
+  opacity: 0.5;
+}
+
+.active:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 
 .main-heading {
