@@ -45,7 +45,7 @@ I relearned how great flexbox is for creating elements that are lined up and nic
 
 ### Continued development
 
-I'd like to get better at determining what would be an id versus a class, using utility classes, and then not repeatedng styles.
+I'd like to get better at determining what would be an id versus a class, using utility classes, and then not repeating styles.
 
 ## Author
 
